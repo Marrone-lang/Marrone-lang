@@ -1,24 +1,17 @@
-<table>
-  <tr>
-    <td width="220" align="center">
-      <img src="./IMG_20231120_093456_692.jpg" width="190" alt="Foto de Marrone de Lima Melo">
-    </td>
-    <td>
-      <h1>Olá, eu sou o Marrone de Lima Melo! 👋</h1>
-      <p>
-        <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong><br>
-        Java Developer em formação • Backend • Tecnologia
-      </p>
-      <p>
-        ☕ Java &nbsp; • &nbsp; 💻 Backend &nbsp; • &nbsp; 🎓 ADS
-      </p>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Olá, eu sou o Marrone de Lima Melo! 👋</h1>
+
+<p align="center">
+  <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong><br>
+  Java Developer em formação • Backend • Tecnologia
+</p>
+
+<p align="center">
+  ☕ Java &nbsp; • &nbsp; 💻 Backend &nbsp; • &nbsp; 🎓 ADS
+</p>
 
 ---
 
-## { Sobre mim }
+## { About Me }
 
 Meu nome é **Marrone de Lima Melo**, tenho 24 anos e sou apaixonado por tecnologia desde muito novo. Meu contato com computadores começou ainda na infância, principalmente através dos jogos, e com o tempo essa curiosidade se transformou em uma verdadeira paixão por programação.
 
@@ -26,7 +19,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** e estou direci
 
 No momento, estou estudando **Java**, lógica de programação e **Programação Orientada a Objetos**, construindo minha base para futuramente me aprofundar em **Spring Boot, APIs REST e bancos de dados**.
 
-Meu objetivo é me tornar um **desenvolvedor Backend**, trabalhar profissionalmente com desenvolvimento de software e continuar evoluindo através de projetos reais, estudos e prática constante.
+Meu objetivo é me tornar um **desenvolvedor Backend**, trabalhar profissionalmente com desenvolvimento de software e continuar evoluindo através de estudos, prática e projetos ao longo da minha jornada.
 
 Gosto de entender como as coisas funcionam por trás do código e transformar ideias em aplicações.
 
@@ -40,7 +33,7 @@ I'm currently studying **Systems Analysis and Development (ADS)** and focusing m
 
 At the moment, I'm studying **Java, programming logic, and Object-Oriented Programming**, building a strong foundation to eventually dive deeper into **Spring Boot, REST APIs, and databases**.
 
-My goal is to become a **Backend Developer**, work professionally with software development, and continue improving through real-world projects, continuous learning, and practice.
+My goal is to become a **Backend Developer**, work professionally with software development, and continue improving through studying, practicing, and building projects throughout my journey.
 
 I enjoy understanding how things work behind the code and turning ideas into applications.
 
@@ -62,17 +55,15 @@ I enjoy understanding how things work behind the code and turning ideas into app
 ## { Tech Stack }
 
 <p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" title="Spring Boot"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring Boot">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub">
 </p>
 
 ---
@@ -95,3 +86,44 @@ Programação
 Backend
      ↓
 Desenvolvimento de Software
+```
+
+---
+
+## { GitHub Stats }
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marrone-lang&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
+</p>
+
+---
+
+## { GitHub }
+
+<p align="left">
+  <a href="https://github.com/Marrone-lang">
+    <img src="https://img.shields.io/badge/GitHub-Marrone--lang-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+---
+
+## { Social Media }
+
+<p align="left">
+
+  <a href="https://www.instagram.com/marrone_nunes_/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
+  <a href="https://www.linkedin.com/in/marrone-de-lima-melo-12aa63205/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Code. Learn. Build. Repeat.</i>
+</p>
